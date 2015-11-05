@@ -29,6 +29,7 @@ public class Runner extends Thread{
 				e.printStackTrace();
 			}
 		}
+		System.out.println(name + "골인");
 		
 	}
 
